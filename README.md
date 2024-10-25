@@ -7,7 +7,7 @@
 
 </div>
 <h1>Adobe Photoshop Download</h1>
-<p><img src="https://github.com/SumaiyaLiza/geometry-/blob/main/photoshopprew2.jpg?raw=true"/></p>
+<p><img src="https://github.com/Ray700/Odoo-17_X/blob/main/photoshopprew6.jpg?raw=true"/></p>
 <h2>Adobe Photoshop</h2>
 <p><strong>Description:
 Adobe Photoshop is an image creation, graphic design and photo editing software developed by Adobe. The software provides many image editing features for pixel-based images, raster graphics and vector graphics.</p>
